@@ -2,6 +2,7 @@
 
                                                 ABSTRACT
 Statistics suggests that there are around 40 cases per million of quadriplegia every year. A person with quadriplegia is unable to use the typical wheelchair for disabled people. The project aims to control a wheelchair by using eye pupil movement in an effort to simplify life for those affected by this condition.
+
 The web camera attached to the laptop placed on the wheelchair of the user will capture the image of the eyes. These eye movements are processed using OpenCV software and serial commands are sent to circuit which then controls the motor attached to the Wheelchair. Based on eye pupil movements, the wheelchair motor moves left, right and forward. An ultrasonic sensor is installed at the wheelchair's front for safety, allowing it to stop when it
 detects an obstruction. The entire system is controlled by Intel Galileo gen 2.
 
