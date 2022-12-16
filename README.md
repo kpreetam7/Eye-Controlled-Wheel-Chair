@@ -10,6 +10,7 @@ detects an obstruction. The entire system is controlled by Intel Galileo gen 2.
 Hardware Image:
 
 ![BTP11](https://user-images.githubusercontent.com/70884153/208134336-9801c184-564e-48b4-b749-9ab4cb3b7363.jpeg | width=100)
+
 ![BTP12](https://user-images.githubusercontent.com/70884153/208134317-91f1f981-522d-4e1f-b073-8cd2e2998fc7.jpeg | width=100)
 
 Output Image:
